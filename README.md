@@ -6,7 +6,7 @@ The RBM-MPC algorithm is applied to control a heat equation with periodic bounda
 The code in this repository has been used to generate the numerical examples in the paper TODO. 
 
 <p align="center">
-<img src="https://github.com/danielveldman/rbm-mpc/blob/main/Figure.PNG" width="70%" height="70%" >
+<img src="https://github.com/danielveldman/rbm-mpc/blob/main/Figure.PNG" width="80%" height="80%" >
 </p>
 
 The file [C0_basic_code](C0_basic_code) computes one realization of an RBM-MPC trajectory. 
